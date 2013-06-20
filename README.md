@@ -9,7 +9,7 @@ A sample (INSECURE !) personalization script is avaialble on http://www.btchip.c
 
 See LICENSE file for licenses
 
-- BTChip 2013
+(c) BTChip 2013
 http://www.btchip.com
 
 
