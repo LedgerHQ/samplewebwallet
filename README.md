@@ -9,7 +9,14 @@ A sample (INSECURE !) personalization script is avaialble on http://www.btchip.c
 
 See LICENSE file for licenses
 
+Web version available on BTChip developer page - http://www.btchip.com/developer.html
+
 (c) BTChip 2013
+
 http://www.btchip.com
+
+http://www.btchip.com/samplewebwallet
+
+
 
 
